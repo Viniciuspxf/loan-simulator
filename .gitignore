@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+# Build files
+.build/
+
+# Gradle files
+.gradle/
+
 # Log file
 *.log
 
